@@ -1,0 +1,4 @@
+#Tue May 26 18:41:29 IST 2020
+base.0=/home/basil/Downloads/Android_studio_app/todo_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
