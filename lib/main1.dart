@@ -2,6 +2,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:todoapp/save.dart';
 
+
+//Scroll down to read_file function 
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -93,6 +96,9 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
+
+
+//This is where the problem is i can retrieve string from save.dart but when i return data, it's returning as null
 
   String read_file(AppState content) {
     String data;
